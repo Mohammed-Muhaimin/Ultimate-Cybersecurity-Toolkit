@@ -1634,10 +1634,10 @@ def main():
             ("49. Suspicious Log Analyzer", analyze_logs),
             ("50. Insecure Coding Pattern Detector", detect_insecure_patterns),
             ("51. Steganography Encoder", steganography_encode),
-            ("51b. Steganography Decoder", steganography_decode),  # Added decoder as separate option
-            ("52. Spam Domain Email Validator", check_spam_domain),
-            ("53. Access Pattern Anomaly Detector", detect_access_anomalies),
-            ("54. Software Update Checker", check_outdated_packages),
+            ("52. Steganography Decoder", steganography_decode),  # Added decoder as separate option
+            ("53. Spam Domain Email Validator", check_spam_domain),
+            ("54. Access Pattern Anomaly Detector", detect_access_anomalies),
+            ("55. Software Update Checker", check_outdated_packages),
         ]
     }
 
